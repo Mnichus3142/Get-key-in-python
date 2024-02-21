@@ -1,5 +1,7 @@
 # MGK - My Key Input
 
+#### Works both in Windows and Linux (tested on Ubuntu)
+
 It works like that
 
 ```
