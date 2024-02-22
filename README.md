@@ -1,4 +1,4 @@
-# MGK - My Key Input
+# GK - Get Key
 
 #### Works both in Windows and Linux (tested on Ubuntu)
 
