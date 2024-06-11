@@ -1,6 +1,6 @@
 # Get-key-in-python
 
-API to retrieve the characters that were pressed on the keyboard
+Library to retrieve the characters that were pressed on the keyboard
 
 #### Works both in Windows and Linux (tested on Ubuntu)
 
